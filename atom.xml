@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Omlovee</title>
+  
+  <subtitle>MyBlog</subtitle>
+  <link href="http://www.wangke.gold/atom.xml" rel="self"/>
+  
+  <link href="http://www.wangke.gold/"/>
+  <updated>2021-04-16T11:07:30.325Z</updated>
+  <id>http://www.wangke.gold/</id>
+  
+  <author>
+    <name>xiaobai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://www.wangke.gold/2021/04/16/article-title/"/>
+    <id>http://www.wangke.gold/2021/04/16/article-title/</id>
+    <published>2021-04-16T11:07:30.000Z</published>
+    <updated>2021-04-16T11:07:30.325Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.wangke.gold/2021/04/15/hello-world/"/>
+    <id>http://www.wangke.gold/2021/04/15/hello-world/</id>
+    <published>2021-04-15T11:35:17.707Z</published>
+    <updated>2021-04-15T11:35:17.707Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
